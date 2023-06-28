@@ -1,0 +1,75 @@
+
+
+1) Are the HTML tags and elements the same thing? 
+Ans- No, HTML tags defined by Start tag (<) and End tag (>)
+EX. <b> </b>. 
+Elements defined by Start tag (<), some content and End tag (>)
+EX. <b> content </b>.
+
+2) What are tags and attributes in HTML?
+Ans- Tags are used to hold elements. 
+     attributes is additional property of HTML tags. 
+
+3) What are void elements in HTML? With Example. 
+Ans- Void tags are HTML tags that do not need a closing tag.
+EX. <img src=""> , <br> 
+
+4) What are HTML Entities? With Example.
+Ans- Entities used for special keywords which is does not supported by your KEY BOARD.
+EX. non-breaking space: &nbsp;.
+
+5) What are different types of lists in HTML? With Example.
+Ans- types of lists in HTML:-
+1.Order list 
+2.Unorder list
+3.Descreption list
+EX. Order list:- <ol> 
+                    <li> html </li>
+                    <li> java </li> </ol> 
+    unorder list:- <ul> 
+                    <li> html </li>
+                    <li> java </li> </ol> 
+                   </ul>
+
+6)  What is the ‘class’ attribute in HTML? With Example
+Ans- The class attribute specifies one or more class names for an element.
+
+7)  What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements? With
+Example
+Ans- A Class name can be used by multiple elements, while an ID name must only be used by one element within the page.
+
+8) What are the various formatting tags in HTML?
+Ans- The formatting can be used to set the text styles like bold, italic,emphasized,
+highlight the text, make text superscript and subscript, etc.
+EX. b> - Bold text.
+    <strong> - Important text.
+    <i> - Italic text.
+    <em> - Emphasized text.
+
+9)  How is Cell Padding different from Cell Spacing? With Example
+Ans- cellpadding is used to set the distance between a cell's edge and its content. 
+     cellspacing determines the distance between individual cells.
+
+10)  How can we club two or more rows or columns into a single row or column in an HTML table? With
+Example
+Ans) It can be done by using the rowspan and colspan attribute in HTML. 
+     The rowspan is used to merge row cells in a table.
+     The colspan is used to merge column cells in a table.
+
+11)  What is the difference between a block-level element and an inline element?
+Ans- A block-level element always takes up the full width.
+     An inline element only takes up as much content width.
+
+12)  How to create a Hyperlink in HTML? With Example
+Ans- By using <a href=""> </a> tag.
+EX. <a href=""https://www.google.com"> Google </a> 
+
+13)  What is the use of an iframe tag? With Example.
+Ans- iframe is used to embed another document within the current HTML document.
+     <iframe src=""https://www.google.com"> Google </iframe>.
+
+14)  What is the use of a span tag? Explain with example?
+Ans- The <span> tag is used to mark up a part of a text, or a part of a document.
+EX. <span> <sup></sup> </span>
+
+
